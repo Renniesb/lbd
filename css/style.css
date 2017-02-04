@@ -143,11 +143,16 @@ border: 1px solid #e5e9ec;
 }
 
 .feature-image-default {
-  background: url('../img/book-1867171_960_720.jpg') no-repeat;
+  background: url('../img/globe1.png') no-repeat;
   background-attachment: fixed;
   background-size: cover;
   margin-bottom: 50px;
+  padding-bottom: 90px;
 
+}
+
+.feature-image-default h1 {
+  margin-top: 0px;
 }
 
 
